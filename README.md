@@ -4,7 +4,7 @@ Pawsonality is a React web application that helps pet owners discover their pet'
 🌐 Live Demo: https://www.petpersonality.org/
 
 ## Preview
-![Home Page](pawsonality/screenshots/homepage.png)
+![Home Page](screenshots/homepage.png)
 
 ## Features
 - Interactive personality quiz
