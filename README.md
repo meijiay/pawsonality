@@ -24,3 +24,6 @@ Frontend
 
 ## Team
 Developed as a team project for the User Experience Design (CIS 4930) course.
+
+## Preview
+![Home Page](pawsonality/screenshots/homepage.png)
